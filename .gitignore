@@ -1,0 +1,17 @@
+# python virtual environment folder
+venv/
+
+# temporary file for testing code snippets
+temp.py
+
+# audio recording file
+recording.wav
+
+# dataset folder for chirp audio files
+Dataset/
+
+# VS Code workspace file
+audio_recorder.code-workspace
+
+# ignore all .wav audio files
+*.wav
